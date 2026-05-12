@@ -1,37 +1,37 @@
-name_jp	name_en	url	commnet
-HRMOS採用	HRMOS ATS	https://hrmos.co/ats/	ビズリーチ運営。データ分析に強く、経営戦略としての採用を支援。
-HERP Hire	HERP Hire	https://herp.cloud/hire	「現場を巻き込む」スクラム採用に特化。Slack連携などが非常にスムーズ。
-ジョブカン採用管理	Job Kan ATS	https://ats.jobcan.ne.jp/	勤怠管理でも有名なシリーズ。安価で導入しやすく、中小〜中堅企業に強い。
-Airワーク 採用管理	Air Work	https://airregi.jp/work/	リクルート運営。無料で採用サイト作成から求人票管理まで可能。
-採用一括かんりくん	Kanri-kun	https://www.can-ly.com/	
-Talentio	Talentio	https://www.talentio.co.jp/	候補者との体験（UX）を重視。シンプルで直感的な操作性が人気。
-Sonar ATS	Sonar ATS	https://sonar-ats.jp/	多くの求人媒体や適性検査と連携。フローの自動化に強みを持つ。
-JobSuite Career	JobSuite Career	https://jobsuite.jp/career/	日本のATSの先駆け。中途採用に特化した豊富な機能と安定性。
-JobSuite FRESHERS	JobSuite FRESHERS	jobsuite.jp/freshers/	
-i-web	i-web	https://www.humanage.co.jp/service/i-web/	大手企業の新卒採用シェアが非常に高い。マイナビ・リクナビと連動。
-engage	engage	https://en-gage.net/	エン・ジャパン運営。0円で掲載・管理ができ、スマホ最適化も強力。
-リクログ	Reclog	https://www.reclog.jp/	派遣・アルバイト採用などの大量採用管理に強みを持つ。
-Workday 採用管理	Workday Recruiting	https://www.workday.com/ja-jp/products/talent-management/recruiting.html	世界シェア大。人事評価や給与計算と統合された大規模企業向け。
-Greenhouse	Greenhouse	https://www.greenhouse.com/	外資系企業やグローバルスタートアップで標準的な高機能ATS。
-Lever	Lever	https://www.lever.co/	候補者とのコミュニケーション履歴の管理に優れ、CRM的な側面が強い。
-SmartRecruiters	SmartRecruiters	https://www.smartrecruiters.com/	欧州発のグローバルATS。UIが洗練されており、多言語対応も完璧。
-SAP SuccessFactors	SAP SuccessFactors	https://www.sap.com/japan/products/hcm/base.html	SAP導入済みの超大手企業向け。人事全体の統合データ管理が可能。
-Oracle Recruiting	Oracle Recruiting Cloud	https://www.oracle.com/jp/human-capital-management/recruiting/	旧Taleoの流れを汲む。エンタープライズ向けの堅牢な管理システム。
-TalentCloud	TalentCloud	https://talentcloud.jp/	採用サイト作成＋タレントプール管理を低コストで実現。
-採用係長	Saiyo-Kakaricho	https://saiyo-kakaricho.com/	地元の求人票作成に強く、Indeed等への一括投稿が容易。
-Hito-Rie	Hito-Rie	https://hito-rie.jp/	エージェント（紹介会社）とのやり取りを効率化することに特化。
-JobSuite CAREER	JobSuite CAREER	https://career.jobsuite.jp/	
-JobSuite FRESHERS	JobSuite FRESHERS	https://jobsuite.jp/freshers/	
-i-web	i-web	https://i-web-ats.humanage.co.jp/	
-RPM	RPM	https://rpm.zeku.co.jp/	
-SmartHR 採用管理	SmartHR ATS	https://smarthr.jp/talent-management/function/ats/	
-HITO-Linkリクルーティング	HITO-Link Recruiting	https://www.hito-link.jp/	
-MOCHICA	MOCHICA	https://official.mochica.jp/	
-クラウドハウス採用	CloudHouse Recruiting	https://jp.cloud-house.com/recruit	
-ビズプラ採用管理	bizpla ATS	https://bizpla.jp/	
-トルー	TOROO	https://web.toroo.jp/	
-Hirehub	Hirehub	https://hire-hub.io/	
-Wantedly Hire	Wantedly Hire	https://hire.wantedly.com/	
-doda ASSIST	doda ASSIST	https://www.saiyo-doda.jp/service/assist	
-ジョブオプ採用管理	Job-op ATS	https://jobop.jp/ats/	
-リクナビHRTech 採用管理	Rikunabi HRTech	https://hrtech.rikunabi.com/	
+name_jp,name_en,url,commnet
+HRMOS採用,HRMOS ATS,https://hrmos.co/ats/,ビズリーチ運営。データ分析に強く、経営戦略としての採用を支援。
+HERP Hire,HERP Hire,https://herp.cloud/hire,「現場を巻き込む」スクラム採用に特化。Slack連携などが非常にスムーズ。
+ジョブカン採用管理,Job Kan ATS,https://ats.jobcan.ne.jp/,勤怠管理でも有名なシリーズ。安価で導入しやすく、中小〜中堅企業に強い。
+Airワーク 採用管理,Air Work,https://airregi.jp/work/,リクルート運営。無料で採用サイト作成から求人票管理まで可能。
+採用一括かんりくん,Kanri-kun,https://www.can-ly.com/,
+Talentio,Talentio,https://www.talentio.co.jp/,候補者との体験（UX）を重視。シンプルで直感的な操作性が人気。
+Sonar ATS,Sonar ATS,https://sonar-ats.jp/,多くの求人媒体や適性検査と連携。フローの自動化に強みを持つ。
+JobSuite Career,JobSuite Career,https://jobsuite.jp/career/,日本のATSの先駆け。中途採用に特化した豊富な機能と安定性。
+JobSuite FRESHERS,JobSuite FRESHERS,jobsuite.jp/freshers/,
+i-web,i-web,https://www.humanage.co.jp/service/i-web/,大手企業の新卒採用シェアが非常に高い。マイナビ・リクナビと連動。
+engage,engage,https://en-gage.net/,エン・ジャパン運営。0円で掲載・管理ができ、スマホ最適化も強力。
+リクログ,Reclog,https://www.reclog.jp/,派遣・アルバイト採用などの大量採用管理に強みを持つ。
+Workday 採用管理,Workday Recruiting,https://www.workday.com/ja-jp/products/talent-management/recruiting.html,世界シェア大。人事評価や給与計算と統合された大規模企業向け。
+Greenhouse,Greenhouse,https://www.greenhouse.com/,外資系企業やグローバルスタートアップで標準的な高機能ATS。
+Lever,Lever,https://www.lever.co/,候補者とのコミュニケーション履歴の管理に優れ、CRM的な側面が強い。
+SmartRecruiters,SmartRecruiters,https://www.smartrecruiters.com/,欧州発のグローバルATS。UIが洗練されており、多言語対応も完璧。
+SAP SuccessFactors,SAP SuccessFactors,https://www.sap.com/japan/products/hcm/base.html,SAP導入済みの超大手企業向け。人事全体の統合データ管理が可能。
+Oracle Recruiting,Oracle Recruiting Cloud,https://www.oracle.com/jp/human-capital-management/recruiting/,旧Taleoの流れを汲む。エンタープライズ向けの堅牢な管理システム。
+TalentCloud,TalentCloud,https://talentcloud.jp/,採用サイト作成＋タレントプール管理を低コストで実現。
+採用係長,Saiyo-Kakaricho,https://saiyo-kakaricho.com/,地元の求人票作成に強く、Indeed等への一括投稿が容易。
+Hito-Rie,Hito-Rie,https://hito-rie.jp/,エージェント（紹介会社）とのやり取りを効率化することに特化。
+JobSuite CAREER,JobSuite CAREER,https://career.jobsuite.jp/,
+JobSuite FRESHERS,JobSuite FRESHERS,https://jobsuite.jp/freshers/,
+i-web,i-web,https://i-web-ats.humanage.co.jp/,
+RPM,RPM,https://rpm.zeku.co.jp/,
+SmartHR 採用管理,SmartHR ATS,https://smarthr.jp/talent-management/function/ats/,
+HITO-Linkリクルーティング,HITO-Link Recruiting,https://www.hito-link.jp/,
+MOCHICA,MOCHICA,https://official.mochica.jp/,
+クラウドハウス採用,CloudHouse Recruiting,https://jp.cloud-house.com/recruit,
+ビズプラ採用管理,bizpla ATS,https://bizpla.jp/,
+トルー,TOROO,https://web.toroo.jp/,
+Hirehub,Hirehub,https://hire-hub.io/,
+Wantedly Hire,Wantedly Hire,https://hire.wantedly.com/,
+doda ASSIST,doda ASSIST,https://www.saiyo-doda.jp/service/assist,
+ジョブオプ採用管理,Job-op ATS,https://jobop.jp/ats/,
+リクナビHRTech 採用管理,Rikunabi HRTech,https://hrtech.rikunabi.com/,
